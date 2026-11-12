@@ -1,0 +1,6 @@
+title: Swarm Science
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - .DS_Store
